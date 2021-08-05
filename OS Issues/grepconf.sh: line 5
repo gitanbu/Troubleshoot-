@@ -1,0 +1,7 @@
+[root@usdt01 ~]# source /etc/profile
+bash: tty: command not found
+/usr/libexec/grepconf.sh: line 5: grep: command not found
+
+
+
+Soultion : export PATH=/usr/bin:/usr/sbin:/bin:/sbin:/usr/X11R6/bin
